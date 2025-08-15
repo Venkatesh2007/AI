@@ -1,0 +1,6 @@
+[submodule "StateSpaceSearch"]
+	path = StateSpaceSearch
+	url = https://github.com/Venkatesh2007/StateSpaceSearch.git
+[submodule "Informed-Search"]
+	path = Informed-Search
+	url = https://github.com/Venkatesh2007/Informed-Search.git
